@@ -199,7 +199,7 @@
             "IMG_DESC": "Searches for related pics on Google.",
             "IMG": "_Searching image_ *{}* _number_ *{}*"
         },
-        "sticker": {
+        "ملصق": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "_Reply to a photo or short video_",
             "DOWNLOADING": "_Please wait..._"
@@ -208,7 +208,7 @@
             "ALIVE_DESC": "Checks if the bot is working or not",
             "SYSD_DESC": "Shows the system properties."
         },
-        "tagall": {
+        "منشن": {
             "TAGALL_DESC": "Tags everyone in the group.",
             "ADMİN": "_I am not admin in this group!_"
         },
